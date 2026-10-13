@@ -1,3 +1,1 @@
-# -*- coding: utf-8 -*-
-
-from . import wizard
+# Intentionally empty: no original models or business logic.
